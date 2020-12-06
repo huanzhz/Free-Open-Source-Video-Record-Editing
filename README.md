@@ -1,6 +1,6 @@
-# Free-Open-Source-Video-Record-Editing
+## Free-Open-Source-Video-Record-Editing
 
-## OBS for window10 recording
+# OBS for window10 recording
 
 https://www.youtube.com/watch?v=lUyOZd8dnfQ
 
